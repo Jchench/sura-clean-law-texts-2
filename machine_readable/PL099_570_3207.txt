@@ -1,0 +1,1625 @@
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-18
+
+United States Code, or $2,000,000 if the defendant is an individual or
+$10,000,000 if the defendant is other than an individual, or both.
+Any sentence imposing a term of imprisonment under this para-
+graph shall, in the absence of such a prior conviction, impose a term
+of supervised release of at least 3 years in addition to such term of
+imprisonment and shall, if there was such a prior conviction, im
+a term of supervised release of at least 6 years in addition to such
+term of imprisonment. Notwithstanding the prior sentence, and
+notwithstanding any other provision of law, the court shall not place
+on probation or nd the sentence of any person sentenced under
+the provisions of this paragraph which provide for a mandatory
+term of imprisonment if death or serious bodily injury results, nor
+shall a person so sentenced be eligible for parole during the term of
+such a sentence.”.
+(b) Section 1010(b\4) of the Controlied Substances Import and Anite, p. 3207-15.
+Export Act (21 U.S.C. 960(b\4)), as redesignated, is amended—
+(1) by striking out “, except as provided in persexerh (4)”;
+(2) by striking out “fined not more than $50,000” and insert-
+ing in lieu thereof “fined not to exceed the greater of that
+authorized in accordance with the provisions of title 18, United
+States Code, or $250,000 if the defendant is an individual or
+$1,000,000 if the defendant is other than an individual”; and
+(3) by inserting “except in the case of 100 or more marihuana
+plants regardless of weight,” after ‘““marihuana,”’.
+
+Subtitle H—Money Laundering Control Act of 1986 Mone
+Laundering
+SEC, 1351. SHORT TITLE. Control Act of
+
+1986.
+pom subtitle may be cited as the ‘‘Money Laundering Control Act 18 USC 981 note.
+0 ‘
+
+SEC. 1352. NEW OFFENSE FOR LAUNDERING OF MONETARY
+INSTRUMENTS.
+
+(a) Chapter 95 of title 18, United States Code, is amended by
+adding at the end thereof the following:
+
+“§ 1956. Laundering of monetary instruments 18 USC 1956.
+
+“(a)(1) Whoever, knowing that the property involved in a financial
+transaction represents the proceeds of some form of unlawful activ-
+ity, conducts or attempts to conduct such a financial transaction
+which in fact involves the proceeds of specified unlawful activity—
+
+“(A) with the intent to promote the carrying on of specified
+unlawful activity; or
+
+“(B) knowing that the transaction is designed in whole or in
+part—
+
+“(i) to conceal or disguise the nature, the location, the
+source, the ownership, or the control of the proceeds of
+specified unlawful activity; or
+
+“(ii) to avoid a transaction reporting requirement under
+State or Federal law,
+
+shall be sentenced to a fine of not more than $500,000 or twice the
+value of the property involved in the transaction, whichever is
+greater, or imprisonment for not more than twenty years, or both.
+
+“(2) Whoever transports or attempts to transport a monetary
+instrument or funds from a place in the United States to or through
+a place outside the United States or to a place in the United States
+from or through a place outside the United States—
+100 STAT. 3207-19 PUBLIC LAW 99-570—OCT. 27, 1986
+
+“(A) with the intent to promote the carrying on of specified
+unlawful activity; or
+
+“(B) knowing that the monetary instrument or funds involved
+in the transportation represent the proceeds of some form of
+unlawful activity and knowing that such transportation is de-
+signed in whole or in part—
+
+“(ij) to conceal or disguise the nature, the location, the
+source, the ownership, or the control of the proceeds of
+specified unlawful activity; or
+
+“(ii) to avoid a transaction reporting requirement under
+State or Federal law,
+
+shall be sentenced to a fine of $500,000 or twice the value of the
+monetary instrument or funds involved in the transportation,
+whichever is greater, or imprisonment for not more than twenty
+years, or both.
+
+“(b) Whoever conducts or attempts to conduct a transaction de-
+scribed in subsection (aX1), or a transportation described in sub-
+section (a)(2), is liable to the United States for a civil penalty of not
+more than the greater of—
+
+“(1) the value of the property, funds, or monetary instruments
+involved in the transaction; or
+
+“(2) $10,000.
+
+“(c) As used in this section—
+
+“(1) the term ‘knowing that the pro - involved in a finan-
+cial transaction represents the ett of some form of unlaw-
+ful activity’ means that the person knew the property involved
+in the transaction represented proceeds from some form, though
+not necessarily which form, of activity that constitutes a —,
+under State or Federal law, regardless of whether or not suc
+activity is specified in | ae ph (7);
+
+“(2) the term ‘conducts’ includes initiating, concluding, or
+participating in initiating, or concluding a transaction;
+
+“(3) the term ‘transaction’ includes a purchase, sale, loan,
+pledge, gift, transfer, delivery, or other disposition, and with
+respect to a financial institution includes a deposit, withdrawal,
+transfer between accounts, exchange of currency, loan, exten-
+sion of credit, purchase or sale of any stock, bond, certificate of
+deposit, or other monetary instrument, or any other payment,
+transfer, or delivery by, through, or to a financial institution, by
+whatever means effected;
+
+“(4) the term ‘financial transaction’ means a transaction
+involving the movement of funds by wire or other means or
+involving one or more monetary instruments, which in any way
+or degree affects interstate or foreign commerce, or a trans-
+action involving the use of a financial institution which is
+engaged in, or the activities of which affect, interstate or foreign
+commerce in any way or degree;
+
+“(5) the term ‘monetary instruments’ means coin or currency
+of the United States or of any other country, travelers’ checks,
+personal checks, bank checks, money orders, investment securi-
+ties in bearer form or otherwise in such form that title thereto
+passes upon delivery, and negotiable instruments in bearer
+form or otherwise in such form that title thereto passes upon
+delivery;
+
+“(6) the term ‘financial institution’ has the definition given
+that term in section 5312(a\(2) of title 31, United States Code,
+and the regulations promulgated thereunder;
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-20
+
+“(7) the term ‘specified unlawful activity’ means—
+“(A) any act or activity constituting an offense listed in
+section 1961(1) of this title except an act which is indictable 18 USC 1961.
+under the Currency and Foreign Transactions Reporting
+Act; 84 Stat. 1118.
+‘(B) with respect to a financial transaction occurring in 91 USC 5811
+whole or in part in the United States, an offense against a
+foreign nation involving the manufacture, importation,
+sale, or distribution of a controlled substance (as such term
+is defined for the purposes of the Controlled Substances
+Act); 21 USC 801 note.
+“(C) any act or acts constituting a continuing criminal
+enterprise, as that term is defined in section 408 of the
+Controlled Substances Act (21 U.S.C. 848); or
+“(D) an offense under section 152 (relating to concealment 18 USC 152.
+of assets; false oaths and claims; bribery), section 215 (relat-
+ing to commissions or gifts for procuring loans), any of
+sections 500 through 503 (relating to certain counterfeiting
+offenses), section 511 (relating to securities of States and
+private entities), section 543 (relating to smuggling goods
+into the United States), section 641 (relating to public
+money, property, or records), section 656 (relating to theft,
+embezzlement, or misapplication by bank officer or em-
+ployee), section 666 (relating to theft or bribery concerning
+programs receiving Federal funds), section 798, 794, or 798
+(relating to espionage), section 875 (relating to interstate
+communications), section 1201 (relating to kidnaping), sec-
+tion 1203 (relating to hostage taking), section 1344 (oltlinn
+to bank fraud), or section on otis or 2114 (relating to bank and
+postal robbery and theft) of this title, section 38 of the Arms
+Export Control Act (22 U.S.C. 2778), section 2 (relating to
+criminal penalties) of the Export Administration Act of
+1979 (50 U.S.C. App. 2401), section 203 (relating to criminal
+sanctions) of the International Emergency Economic
+Powers Act (50 U.S.C. 1702), or section 3 (relating to crimi-
+ah Capp 3). of the Trading with the Enemy Act (50
+“(d) Nothing in this section shall supersede any provision of
+Federal, State, or other law imposing criminal penalties or affording
+civil remedies in addition to those provided for in this section.
+“(e) Violations of this section may be investigated by such compo-
+nents of the Department of Justice as the Attorney General may
+direct, and by such components of the Department of the Treasury
+as the Secretary of the may direct, as appropriate. Such
+authority of the Secretary of the Treasury shall be exercised in
+accordance with an agreement which shall be entered into by the
+of the Treasury and the Attorney General.
+“(f) There is extraterritorial jurisdiction over the conduct prohib-
+ited by this section if—
+“(1) the conduct is by a United States citizen or, in the case of
+a non-United States citizen, the conduct occurs in part in the
+United States; and
+“(2) the transaction or series of related transactions involves
+funds or monetary instruments of a value exceeding $10,000.
+100 STAT. 3207-21 PUBLIC LAW 99-570—OCT. 27, 1986
+
+18 USC 1957.
+
+18 USC 3077.
+
+31 USC 5311 et
+seq.
+
+18 USC 1956.
+
+“§ 1957. Engaging in monetary transactions in property derived
+from specified unlawful activity
+
+“(a) Whoever, in any of the circumstances set forth in subsection
+(d), knowingly engages or attempts to engage in a monetary trans-
+action in criminally derived property of a value greater than $10,000
+and is derived from specified unlawful activity, shall be punished as
+provided in subsection (b).
+
+“(b)\(1) Except as provided in paragraph (2), the punishment for an
+offense under this section is a fine under title 18, United States
+Code, or imprisonment for not more than ten years, or both.
+
+“(2) The court may impose an alternate fine to that imposable
+under paragraph (1) of not more than twice the amount of the
+criminally derived property involved in the transaction.
+
+“(c) In a prosecution for an offense under this section, the Govern-
+ment is not required to prove the defendant knew that the offense
+from which the criminally derived property was derived was speci-
+fied unlawful activity.
+
+“(d) The circumstances referred to in subsection (a) are—
+
+“(1) that the offense under this section takes place in the
+United States or in the special maritime and territorial jurisdic-
+tion of the United States; or
+
+“(2) that the offense under this section takes place outside the
+United States and such special jurisdiction, but the defendant is
+a United States person (as defined in section 3077 of this title,
+but ee the class described in paragraph (2D) of such
+section).
+
+“(e) Violations of this section may be investigated by such compo-
+nents of the Department of Justice as the Attorney General may
+direct, and by such components of the Department of the Treasu
+as the Secretary of the Treas may direct, as cope apriate. Suc
+authority of the Secretary of the Treasury shall exercised in
+accordance with an agreement which shall be entered into by the
+Secretary of the Treasury and the Attorney General.
+
+“(f) As used in this section—
+
+(1) the term ‘monetary transaction’ means the deposit, with-
+drawal, transfer, or exchange, in or affecting interstate or
+foreign commerce, of funds or a monetary instrument (as de-
+fined for the purposes of subchapter II of chapter 53 of title 31)
+by, through, or to a financial institution (as defined in section
+5312 of title 31);
+
+“(2) the term ‘criminally derived property’ means any prop-
+erty constituting, or derived from, atcnern obtained from a
+criminal offense; and
+
+(3) the term ‘specified unlawful activity’ has the meaning
+given that term in section 1956 of this title.”’.
+
+(b) The table of sections at the beginning of chapter 95 of title 18 is
+amended by adding at the end the following new items:
+
+“1956. Laundering of monetary instruments.
+“1957. Engaging ing in monetary transactions in property derived from specified unlaw-
+activity.”.
+
+SEC. 1353. AMENDMENTS TO THE RIGHT TO FINANCIAL PRIVACY ACT.
+
+(a) CLARIFICATION OF RIGHT OF FINANCIAL InstTITUTIONS To REPORT
+SuspecTeD VIOLATIONS.—Section 1103(c) of the Right to Financial
+Privacy Act of 1978 (12 U.S.C. 3403(c)) is amended by adding at the
+end thereof the following new sentences: “Such information may
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-22
+
+include only the name or other identifying information concerning
+any individual or account involved in and the nature of any sus-
+pected illegal activity. Such information may be disclosed notwith-
+standing any constitution, law, or regulation of any State or political
+subdivision thereof to the contrary. Any financial institution, or
+officer, employee, or agent thereof, making a disclosure of informa-
+tion pursuant to this subsection, shall not be liable to the customer
+under any law or regulation of the United States or any constitu-
+tion, law, or regulation of any State or political subdivision thereof,
+yrs — disclosure or for any failure to notify the customer of such
+osure.”’.
+
+(b) Section 1113(i) of the Right to Financial Privacy Act of 1978 (12
+U.S.C. 3413(i)) is amended by inserting immediately before the
+period at the end thereof a comma and the following: “except that a
+court shall have authority to order a financial institution, on which
+a grand jury subpoena for customer records has been served, not to
+notify the customer of the existence of the subpoena or information
+that been furnished to the grand jury, under the circumstances
+and for the period pages: and pursuant to the procedures estab-
+COREY: ae 1109 of the Right to Financial Privacy Act of 1978
+
+SEC. 1354. STRUCTURING TRANSACTIONS TO EVADE REPORTING
+REQUIREMENTS PROHIBITED.
+
+(a) In GeNERAL.—Subchapter II of chapter 53 of title 31, United
+States Code (relating to records and reports on monetary in-
+struments transactions) is amended by adding at the end thereof the
+following new section:
+
+“§ 5324. Structuring transactions to evade reporting requirement 31 USC 5324.
+prohibited
+
+“No person shall for the porpeee of evading the reporting require-
+ments of section 5313(a) with respect to such transaction— 31 USC 5313.
+“(1) cause or attempt to cause a domestic financial institution
+to fail to file a report required under section 5313(a);
+“(2) cause or attempt to cause a domestic financial institution
+to file a report required under section 5313(a) that contains a
+material omission or misstatement of fact; or
+“(3) structure or assist in structuring, or attempt to structure
+or assist in structuring, any transaction with one or more
+domestic financial institutions.”’.
+(b) CLERICAL AMENDMENT.—The table of sections for chapter 53 of
+title 31, United States Code, is amended by adding at the end thereof
+the following new item:
+
+“5324. Structuring transactions to evade reporting requirement prohibited.”.
+SEC. 1355. SEIZURE AND CIVIL FORFEITURE OF MONETARY _IN-
+STRUMENTS AND RELATED PROVISIONS.
+
+(a) Customs AuTHority To Conpuct SEARCHES AT BorDER.—Sec-
+poe 5317(b) of title 31, United States Code, is amended to read as
+ollows:
+“(b) SEARCHES AT BorpDER.—For purposes of ensuring compliance
+with the requirements of section 5316, a customs officer may stop 31 USC 5316.
+and search, at the border and without a search warrant, any vehicle,
+vessel, aircraft, or other conveyance, any —- or other con-
+— and any person entering or departing from the United
+tes.”’.
+100 STAT. 3207-23 PUBLIC LAW 99-570—OCT. 27, 1986
+
+(b) Farture to Report Export or Import oF Monetary IN-
+STRUMENT.—The first sentence of section 5317(c) of title 31, United
+States Code (relating to seizure and forfeiture of monetary in-
+struments in foreign commerce) is amended to read as follows: “If a
+31 USC 5316. report required under section 5316 with respect to any monetary
+instrument is not filed (or if filed, contains a material omission or
+misstatement of fact), the instrument and any interest in property,
+including a deposit in a financial institution, traceable to such
+instrument may be seized and forfeited to the United States
+Government.”.
+
+SEC. 1356. COMPLIANCE AUTHORITY FOR SECRETARY OF THE TREASURY
+AND RELATED MATTERS.
+
+(a) Summons Power.—Section 5318 of title 31, United States Code,
+is amended—
+
+(1) by inserting “(a) GENERAL Powers or SECRETARY.—”
+before ‘The Secretary of the Treasury”;
+
+(2) in ‘ph (1), by inserting “except as provided in
+subsection (b\(2),” before “delegate”;
+
+(3) by striking out “and” at the end of paragraph (2);
+
+(4) by | inserting ijafter | paragraph (2) the following new
+
+paragraphs:
+
+“(3) examine any books, papers, records, or other data of
+domestic financial institutions relevant to the recordkeeping or
+reporting requirements of this subchapter;
+
+‘(4) summon a financial institution, an officer or employee of
+a financial institution (including a former officer or employee),
+or any person having possession, custody, or care of the reports
+and records required under this subchapter, to appear before
+the Secretary of the Treasury or his delegate at a time and
+place named in the summons and to produce such books, papers,
+records, or other data, and to give testimony, under oath, as
+may be relevant or material to an investigation described in
+subsection (b); and”;
+
+(5) by redesignating paragraph (3) as paragraph (5); and
+
+(6) by adding at the end the following new subsections:
+
+“(b) LrmrratTions ON SuMMoONS PowER.—
+
+“(1) Scope OF PowER.—The Secretary of the Treasury may
+take any action described in paragraph (3) or (4) of subsection (a)
+only in connection with investigations for the purpose of civil
+enforcement of violations of this subchapter, section 21 of the
+
+12 USC 1829b. Federal Deposit Insurance Act, section 411 of the National
+12 USC 17304. Housing Act, or chapter 2 of Public Law 91-508 (12 U.S.C. 1951
+et seq.) or any regulation under any such provision.
+
+“(2) AUTHORITY TO ISSUE.—A summons may be issued under
+subsection (a4) only by, or with the approval of, the Secretary
+of the Treasury or a supervisory level delegate of the Secretary
+of the Treasury.
+
+“(c) ADMINISTRATIVE ASPECTS OF SUMMONS.—
+
+“(1) PRODUCTION AT DESIGNATED SITE.—A summons issued
+pursuant to this section may require that books, papers, records,
+or other data stored or maintained at any place be produced at
+any designated location in any State or in any territory or other
+place walsleo to the jurisdiction of the United States not more
+than 500 miles distant from any place where the financial
+institution operates or conducts business in the United States.
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-24
+
+“(2) FEES AND TRAVEL EXPENSES.—Persons summoned under
+this section shall be paid the same fees and mileage for travel in
+the United States that are paid witnesses in the courts of the
+United States.
+
+“(3) No LIABILITY FOR EXPENSES.—The United States shall not
+be liable for any expense, other than an expense described in
+paragraph (2), incurred in connection with the production of
+
+ks, papers, records, or other data under this section.
+
+“(d) Service or SumMMoNs.—Service of a summons issued under
+this section may be by registered mail or in such other manner
+calculated to give actual notice as the Secretary may prescribe by
+regulation.
+
+“(e) CONTUMACY OR REFUSAL.—
+
+(1) REFERRAL TO ATTORNEY GENERAL.—In case of contumacy
+by a person issued a summons under paragraph (3) or (4) of
+subsection (a) or a refusal by such person to obey such sum-
+mons, the Secretary of the Treasury shall refer the matter to
+the Attorney General.
+
+(2) JURISDICTION OF cCoURT.—The Attorney General may
+invoke the aid of any court of the United States within the
+jurisdiction of which—
+
+“(A) the investigation which gave rise to the summons is
+being or has been carried on;
+‘(B) the person summoned is an inhabitant; or
+; Bo the person summoned carries on business or may be
+ound,
+to compel compliance with the summons.
+
+“(3) CouRT ORDER.—The court may issue an order requiring
+the person summoned to appear before the Secretary or his
+delegate to produce books, papers, records, and other data, to
+give testimony as may be necessary to explain how such mate-
+rial was compiled and maintained, and to pay the costs of the
+proceeding.
+
+“(4) FAILURE TO COMPLY WITH ORDER.—Any failure to obey the
+order of the court may be punished by the court as a contempt
+thereof.
+
+“(5) SERVICE OF PROCESS.—AI] process in any case under this
+subsection may be served in any judicial district in which such
+person may be found.”.
+
+(b) AMENDMENT RELATING TO EXEMPTIONS GRANTED FOR MONE-
+TARY TRANSACTION REPORTING REQUIREMENTS.—Section 5318 of title
+31, United States Code, is amended by adding after subsection (e) (as
+added by subsection (a) of this section) the following new subsection:
+
+“(f) WRITTEN AND SIGNED STATEMENT REQuIRED.—No person shall
+qualify for an exemption under subsection (a5) unless the relevant
+financial institution prepares and maintains a statement which—
+
+“(1) describes in detail the reasons why such person is quali-
+fied for such exemption; and
+
+“(2) contains the signature of such person.”’.
+
+(c) CONFORMING AMENDMENTS.—
+
+(1) Sections 5321 and 5322 of title 31, United States Code, are
+each amended by striking out “5318(2)” each place such term
+appears and inserting in lieu thereof “5318(a)(2)”.
+
+(2) The heading of section 5318 of title 31, United States Code,
+is amended to read as follows:
+
+Ante, p. 3207-23.
+100 STAT. 3207-25 PUBLIC LAW 99-570—OCT. 27, 1986
+
+31 USC 5324.
+
+“§ 5318. Compliance, exemptions, and summons authority”.
+
+(d) CLERICAL AMENDMENT.—The table of sections for chapter 53 of
+title 31, United States Code, is amended by striking out the item
+relating to section 5318 and inserting in lieu thereof the following:
+
+“5318. Compliance, exemptions, and summons authority.”’.
+SEC. 1357. PENALTY PROVISIONS.
+
+(a) Crvit Money PENALTY FoR STRUCTURED TRANSACTION VIOLA-
+TION.—Section 5321(a) of title 31, United States Code, is amended by
+adding at the end thereof the following new paragraph:
+
+“(4) SrRUCTURED TRANSACTION VIOLATION.—
+
+“(A) PENALTY AUTHORIZED.—The Secretary of the Treasury
+ay impose a civil money eer on any person who willfully
+violates any provision of section 5324.
+
+“(B) MAXIMUM AMOUNT LIMITATION.—The amount of any civil
+money penalty imposed under subparagraph (A) shall not
+exceed the amount of the coins and currency (or such other
+monetary instruments as the Secretary may prescribe) involved
+in the transaction with respect to which such penalty is
+imposed.
+
+“(C) COORDINATION WITH FORFEITURE PROVISION.—The amount
+of any civil money penalty imposed by the Secretary under
+subparagraph (A) shall be reduced by the amount of any forfeit-
+ure to the United States under section 5317(d) in connection
+with the | transaction with respect to which such penalty is
+im haa
+
+(b) INCREASE IN AMOUNT OF PENALTY For FINANCIAL INsTITU-
+TIONS.—Section 5321(a\1) of title 31, United States Code, is
+amended—
+
+(1) by striking out “$10,000” and inserting in lieu thereof ‘‘the
+greater of the amount (not to exceed $100,000) involved in the
+transaction or $25,000”; and
+
+(2) by striking out “section 5315” each place such term ap-
+pears and inserting in lieu thereof “sections 5314 and 5315”.
+
+(c) SEPARATE CiviL MoNry PENALTY FOR VIOLATION OF SECTION
+5314.—Section 5321(a) of title 31, United States Code, is amended by
+inserting after paragraph (4) (as added by subsection (a) of this
+section) the following new paragraph:
+
+“(5) FOREIGN FINANCIAL AGENCY TRANSACTION VIOLATION.—
+
+“(A) PENALTY AUTHORIZED.—The Secretary of the Treasury
+may impose a civil money penalty on any person who willfully
+violates any provision of section 5314.
+
+“(B) MAXIMUM AMOUNT LIMITATION.—The amount of any civil
+money penalty imposed under subparagraph (A) shall not
+exceed—
+
+“(i) in the case of violation of such section involving a
+transaction, the greater of—
+(I) the amount (not to exceed $100,000) of the trans-
+action; or
+“(ID $25,000; and
+(ii) in the case of violation of such section involving a
+failure to report the existence of an account or any identify-
+ing information required to be provided with respect to
+such account, the greater of—
+“(I) an amount (not to exceed $100,000) equal to the
+balance in the account at the time of the violation; or
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-26
+
+“(ID $25,000.”.
+
+(d) SEPARATE Crvi, MONEY PENALTY FOR NEGLIGENT VIOLATION OF
+SUBCHAPTER.—Section 5821(a) of title 31, United States Code, is
+amended by inserting after paragraph (5) (as added by subsection (d)
+of this section) the following new paragraph:
+
+“(6) NEGLIGENCE.—The Secretary of the Treasury may impose a
+civil money penalty of not more than $500 on any financial institu-
+tion which negligently violates any provision of this subchapter or
+any regulation prescribed under this subchapter.”.
+
+(e) EXTENSION OF TIME LIMITATIONS FOR ASSESSMENT OF CIVIL
+PENALTY.—Section 5321(b) of title 31, United States Code, is
+amended to read as follows:
+
+“(b) Time LimrTATIONS FOR ASSESSMENTS AND COMMENCEMENT OF
+Crvi AcTIONs.—
+
+“(1) ASSESSMENTS.—The Secretary of the Treasury may assess
+a civil penalty under subsection (a) at any time before the end of
+the 6-year period beginning on the date of the transaction with
+
+t to which the penalty is assessed.
+
+“(2) Crvm actions.—The Secretary may commence a civil
+action to recover a civil penalty assessed under subsection (a) at
+sas ~ before the end of the 2-year period beginning on the
+ater of —
+
+“(A) the date the penalty was assessed; or
+
+“(B) the date any judgment becomes final in any criminal
+action under section 5322 in connection with the same
+transaction with respect to which the penalty is assessed.”’.
+
+(f) CLARIFICATION OF RELATIONSHIP BETWEEN CIVIL PENALTY AND
+CRIMINAL PENALTY.—Section 5321 of title 31, United States Code, is
+amended by adding at the end thereof the following new subsection:
+
+“(d) CRIMINAL PeNaLty Not Exc.usive or Civit PENALTY.—A civil
+money penalty may be imposed under subsection (a) with respect to
+any violation of this subchapter notwithstanding the fact that a
+criminal penalty is im with respect to the same violation.”’.
+
+(g) AMENDMENTS TO CRIMINAL PENALTY FOR CERTAIN OFFENSES.—
+Section 5322(b) of title 31, United States Code, is amended—
+
+(1) by striking out “illegal activity involving transactions of”’
+and inserting in lieu thereof “any illegal activity involving”; and
+
+(2) by striking out “5 years” and inserting in lieu thereof “10
+years’.
+
+(h) CONFORMING AMENDMENT.—Section 53821(c) of title 31, United
+States Code, is amended by striking out “section 5317(b)” and insert-
+ing in lieu thereof “subsection (c) or (d) of section 5317”. 31 USC 5316.
+
+SEC. 1358. MONETARY TRANSACTION REPORTING AMENDMENTS.
+
+(a) CLOSELY RELATED EVENTS.—Section 5316 of title 31, United
+States Code, is amended by adding at the end the following new
+subsection:
+
+“(d) CUMULATION OF CLOSELY RELATED Events.—The Secretary of
+the Treasury may prescribe regulations under this section defining
+the term ‘at one time’ for purposes of subsection (a). Such regula-
+tions may permit the cumulation of closely related events in order
+that such events may collectively be considered to occur at one time
+for the purposes of subsection (a).”.
+
+(b) INCHOATE OFFENSE.—Section 5316(a)(1) of title 31, United States
+Code, is amended—
+
+(1) by striking out “or attempts to transport or have trans-
+ported,”, and
+100 STAT. 3207-27 PUBLIC LAW 99-570—OCT. 27, 1986
+
+(2) by inserting “, is about to transport,” after “transports”.
+
+(c) TECHNICAL AND CONFORMING AMENDMENT.—Section 5316(a\2)
+
+of title 31, United States Code, is amended by striking out “$5,000”
+and inserting in lieu thereof “$10,000”.
+
+SEC. 1359. BANKING REGULATORY AGENCY SUPERVISION OF RECORD-
+KEEPING SYSTEMS.
+
+(a) INSURED BANKS.—
+
+(1) IN GENERAL.—Section 8 ot the Federal Deposit Insurance
+Act (12 U.S.C. 1818) is amended by adding at the end thereof the
+following new subsection:
+
+“(s) COMPLIANCE WITH MONETARY TRANSACTION RECORDKEEPING
+AND REPpoRT REQUIREMENTS.—
+
+(1) COMPLIANCE PROCEDURES REQUIRED.—Each appropriate
+Federal banking agency shall prescribe regulations requiring
+insured banks to establish and maintain procedures reasonably
+designed to assure and monitor the compliance of such banks
+with the requirements of subchapter II of chapter 53 of title 31,
+
+31 USC 5311 et United States Code.
+
+seq. “(2) EXAMINATIONS OF BANK TO INCLUDE REVIEW OF COMPLI-
+ANCE PROCEDURES.—
+
+“(A) IN GENERAL.—Each examination of an insured bank
+by the appropriate Federal banking agency shall include a
+review of the procedures required to be established and
+maintained under paragraph (1).
+
+“(B) EXAM REPORT REQUIREMENT.—The report of examina-
+tion shall describe any problem with the procedures
+maintained by the insured bank.
+
+“(3) ORDER TO COMPLY WITH REQUIREMENTS.—If the appro-
+Heats Federal banking agency determines that an insured
+
+an —
+
+“(A) has failed to establish and maintain the procedures
+described in paragraph (1); or
+
+“(B) has failed to correct any problem with the proce-
+dures maintained by such bank which was previously re-
+ported to the bank by such agency,
+
+the agency shall issue an order in the manner prescribed in
+subsection (b) or (c) requiring such bank to cease and desist from
+its violation of this subsection or regulations prescribed under
+this subsection.”’.
+
+(2) CrvIL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLI-
+ANCE PROCEDURES.—Section &(i2\i) of the Federal Deposit
+Insurance Act (12 U.S.C. 1818(i2)i)) is amended by striking out
+“subsection (b) or (c)”’ and inserting in lieu thereof “subsection
+(b), (c), or (s)”’.
+
+(b) INstrTUTIONS REGULATED BY THE BANK BoarD.—
+
+(1) IN GENERAL.—Section 5(d) of the Home Owners’ Loan Act
+of 1933 (12 U.S.C. 1464(d)) is amended by adding at the end
+thereof the following new paragraph:
+
+“(16) ComPLIANCE WitH MONETARY TRANSACTION RECORDKEEPING
+AND REPORT REQUIREMENTS.—
+
+Regulations. “(A) COMPLIANCE PROCEDURES REQUIRED.—The Board shall
+prescribe regulations requiring associations to establish and
+maintain procedures reasonably designed to assure and monitor
+the compliance of such associations with the requirements of
+
+31 USC 5811 et subchapter II of chapter 53 of title 31, United States Code.
+seq.
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-28
+
+“(B) EXAMINATIONS OF ASSOCIATIONS TO INCLUDE REVIEW OF
+COMPLIANCE PROCEDURES.—
+
+“(i) IN GENERAL.—Each examination of an association by
+the Board shall include a review of the procedures required
+to be established and maintained under subparagraph (A).
+
+“(ii) EXAM REPORT REQUIREMENT.—The report of examina-
+tion shall describe any problem with the procedures main-
+tained by the association.
+
+“(C) ORDER TO COMPLY WITH REQUIREMENTS.—If the Board
+determines that an association—
+
+“(i) has failed to establish and maintain the procedures
+described in subparagraph (A); or
+
+“(ii) has failed to correct any problem with the procedures
+maintained by such association which was previously re-
+
+rted to the association by the Board,
+the Board shall issue an order in the manner prescribed in
+paragraph (2) or (3) requiring such association to cease and
+desist from its violation of this paragraph or regulations pre-
+scribed under this paragraph.”’.
+
+(2) CrvIL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLI-
+ANCE PROCEDURES.—Section 5(d\8\B\i) of the Home Owners’
+Loan Act of 1933 (12 U.S.C. 1464(d\8\BXi)) is amended by
+striking out “paragraph (2) or (3)” and inserting in lieu thereof
+
+Bi (2), (3), or (16)”.
+(c) INsuRED Turirt INstITUTIONS.—
+
+(1) IN GENERAL.—Section 407 of the National Housing Act (12
+
+U.S.C. 1730) is amended by adding at the end thereof the
+following new subsection:
+
+“(s) CoMPLIANCE WitH MoNETARY TRANSACTION RECORDKEEPING
+AND REpoRT REQUIREMENTS.—
+
+“(1) COMPLIANCE PROCEDURES REQUIRED.—The Corporation Regulations.
+
+shall prescribe regulations requiring insured institutions to
+
+establish and maintain procedures reasonably designed to
+
+assure and monitor the compliance of such institutions with the
+
+requirements of subchapter II of chapter 53 of title 31, United
+
+States Code. 31 USC 5311 et
+“(2) EXAMINATIONS OF INSTITUTIONS TO INCLUDE REVIEW OF  :e9-
+COMPLIANCE PROCEDURES.—
+
+“(A) IN GENERAL.—Each examination of an insured
+institution by the Corporation shall include a review of the
+procedures required to be established and maintained
+
+under ———- (1).
+
+“(B) REPORT REQUIREMENT.—The report of examina-
+tion shall describe any problem with the procedures main-
+tained by the insured institution.
+
+“(3) ORDER TO COMPLY WITH REQUIREMENTS.—If the Corpora-
+tion determines that an insured institution—
+
+“(A) has failed to establish and maintain the procedures
+
+escribed in paragraph (1); or
+
+“(B) has failed to correct any problem with the proce-
+dures maintained by such institution which was previously
+reported to the institution by the Corporation,
+
+the Corporation shall issue an order in the manner prescribed
+in subsection (e) or (f) requiring such institution to cease and
+desist from its violation of this subsection or regulations pre-
+scribed under this subsection.”
+100 STAT. 3207-29 PUBLIC LAW 99-570—OCT. 27, 1986
+
+Regulations.
+
+31 USC 5331 et
+seq.
+
+(2) CrviL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLI-
+ANCE PROCEDURES.—Section 407(k\3\A) of the National Housing
+Act (12 U.S.C. 1730(kX8XA)) is amended by striking out “‘subsec-
+tion (e) or (f) of this section shall forefit” and inserting in lieu
+thereof “subsection (e), (f), or (s) of this section shall forfeit”.
+
+(d) InsurRED Crepit UNIONS.—
+
+(1) In GENERAL.—Section 206 of the Federal Credit Union Act
+(12 U.S.C. 1786) is amended by adding at the end thereof the
+following new subsection:
+
+“(q) COMPLIANCE WitrH MoNETARY TRANSACTION RECORDKEEPING
+AND Report REQUIREMENTS.—
+
+“(1) COMPLIANCE PROCEDURES REQUIRED.—The Board shall pre-
+scribe regulations requiring insured credit unions to establish
+and maintain procedures reasonably designed to assure and
+monitor the compliance of such credit unions with the require-
+ments of subchapter II of chapter 53 of title 31, United States
+
+e.
+“(2) EXAMINATIONS OF CREDIT UNIONS TO INCLUDE REVIEW OF
+COMPLIANCE PROCEDURES.—
+
+“(A) IN GENERAL.—Each examination of an insured credit
+union by the Board shall include a review of the procedures
+spe to be established and maintained under paragraph
+(1).
+
+“(B) EXAM REPORT REQUIREMENT.—The report of examina-
+tion shall describe any problem with the procedures main-
+tained by the credit union.
+
+“(3) ORDER TO COMPLY WITH REQUIREMENTS.—If the Board
+determines that an insured credit union—
+
+“(A) has failed to establish and maintain the procedures
+
+ibed in paragraph (1); or
+
+“(B) has failed to correct any problem with the proce-
+dures maintained by such credit union which was pre-
+viously reported to the credit union by the Board,
+
+the Board shall issue an order in the manner prescribed in
+subsection (e) or (f) iring such credit union to cease and
+desist from its violation of this subsection or regulations pre-
+scribed under this subsection.”’.
+
+(2) CrviL MONEY PENALTIES FOR FAILURE TO MAINTAIN COMPLI-
+ANCE PROCEDURES.—Section 206(kX2XA) of the Federal Credit
+Union Act (12 U.S.C. 1786(k\2XA)) (as in effect on September 1,
+1986) is amended by striking out “subsection (e) or (f)” and
+inserting in lieu thereof “subsection (e), (f), or (q)”’.
+
+SEC. 1360. CHANGE IN BANK CONTROL ACT AMENDMENTS.
+
+(a) ADDITIONAL REviIEW TIME.—
+(1) INITIAL EXTENSION AT DISCRETION OF AGENCY.—The first
+sentence of section 7(jX1) of the Federal Deposit Insurance Act
+(12 U.S.C. 18171) is amended by striking out “or extending
+
+up to another thirty days” and inserting in lieu thereof “or, in
+the discretion of the agency, extending for an additional 30
+days”.
+
+(2) ADDITIONAL EXTENSIONS IN CASE OF INCOMPLETE OR INAC-
+CURATE NOTICE OR TO CONTINUE INVESTIGATION.—The second
+sentence of section 7(jX1) of the Federal Deposit Insurance Act
+(12 U.S.C. 1817(jX1)) is amended to read as follows: “The period
+for disapproval under the preceding sentence may be extended
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-30
+
+not ee 2 additional times for not more than 45 days each
+time if—
+
+“(A) the agency determines that any acquiring party has not
+furnished all the information required under paragraph (6);
+
+“(B) in the agency’s judgment, any material information
+submitted is substantially inaccurate;
+
+“(C) the agency has been unable to complete the investigation
+of an acquiring party under paragraph (2B) because of any
+delay caused by, or the inadequate cooperation of, such acquir-
+
+me. By tho a eet d determines that additional time is needed to
+investigate and determine that no acquiring party has a record
+of — comply with the requirements of subchapter II of
+chapter 53 of title 31, United States Code.”’. 31 USC 5331 et
+
+(b) Duty To INVESTIGATE APPLICANTS FOR CHANGE IN CONTROL °%-
+APpprROVAL.—Section 7(j2) of the Federal Deposit Insurance Act (12
+U.S.C. 1817(G)(2)) is amended—
+
+(1) by striking out “(2)” and inserting in lieu thereof ‘(2)(A)
+Notice To StaTE AGENCY.—”; and
+
+creek adding at the end thereof the following new subpara-
+
+a
+
+“(B) ——_— oF PRINCIPALS RequireD.— Upon receiving any
+notice under this subsection, the appropriate Federal banking
+agency shall—
+
+“(i) conduct an investigation of the competence, experience,
+integrity, and financial ability of each person named in a notice
+of a proposed acquisition as a person by whom or for whom such
+
+acquisition is to be made; and
+“(ii) make an independent determination of the accuracy and
+completeness of any information described in paragraph (6)
+with respect to such person.
+
+“(C) Report.—The appropriate Federal banking agency shall pre-
+pare a written report of any investigation under subparagraph (B)
+which shall contain, at a minimum, a summary of the results of
+such investigation. The agency shall retain such written report as a
+record of the agency.’’.
+
+(c) Pustic COMMENT ON CHANGE oF ContROL Nortices.—Section
+7(jX2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(jX2)) is
+amended by adding after subparagraph (C) (as added by subsection
+(b) of this ection the following new subparagraph:
+
+“(D) Pustic ComMENT.—Upon receiving notice of a proposed ac-
+quisition, the appropriate Federal banking agency shall, within a
+reasonable period of time—
+
+“(i) publish the name of the insured bank proposed to be
+acquired and the name of each person identified in such notice
+as a person by whom or for whom such acquisition is to be
+made; and
+
+“(i) solicit public comment on such proposed acquisition,
+gee from persons in the geographic area where the
+
+proposed to be acquired is located, before final consider-
+
+ation of such notice by the agency,
+unless the agency determines in writing that such disclosure or
+ee ee would seriously threaten the safety or soundness of such
+
+(d) INVESTIGATIONS AND ENFORCEMENT.—Section 7(j) of the Federal
+Deposit Insurance Act (12 U.S.C. 1817(j)) is amended—
+100 STAT. 3207-31 PUBLIC LAW 99-570—OCT. 27, 1986
+
+12 USC 1818.
+
+(1) by redesignating paragraphs (15) and (16) as paragraphs
+(16) and (17), respectively; and
+(2) by inserting after paragraph (14) the following new
+
+ph:
+“(h5) INVESTIGATIVE AND ENFORCEMENT AUTHORITY.—
+
+“(A) INVESTIGATIONS.—The appropriate Federal banking
+agency may exercise any authority vested in such agency under
+section 8(n) in the course of conducting any investigation under
+paragraph (2B) or any other investigation which the agency, in
+its discretion, determines is necessary to determine whether
+ony person has filed inaccurate, incomplete, or misleading
+information under this subsection or otherwise is violating, has
+violated, or is about to violate any provision of this subsection or
+any regulation prescribed under this subsection.
+
+“(B) ENFORCEMENT.— Whenever it appears to the appropriate
+Federal banking agency that any person is violating, has vio-
+lated, or is about to violate any provision of this subsection or
+any regulation prescribed under this subsection, the agency
+may, in its discretion, apply to the appropriate district court of
+rs United States or the United States court of any territory
+
+or—
+
+“(i) a temporary or permanent injunction or restraining
+order enjoining such person from violating this subsection
+or any regulation prescribed under this subsection; or
+
+“(ii) such other equitable relief as may be necessary to
+prevent any such violation (including divestiture).
+
+“(C) JURISDICTION.—
+
+“(i) The district courts of the United States and the
+United States courts in any territory shall have the same
+jurisdiction and power in connection with any exercise of
+any authority by the appropriate Federal banking agency
+under subparagraph (A) as such courts have under section
+
+&(n).
+
+(ii) The district courts of the United States and the
+United States courts of any territory shall have jurisdiction
+and power to issue any injunction or restraining order or
+grant any equitable relief described in subparagraph (B).
+When appropriate, any injunction, order, or other equitable
+relief granted under this paragraph shall be granted with-
+out requiring the posting of any bond.”.
+
+SEC. 1361. CHANGE IN SAVINGS AND LOAN CONTROL ACT AMENDMENTS.
+(a) ADDITIONAL REview TIME.—
+
+(1) INITIAL EXTENSION AT DISCRETION OF AGENCY.—The first
+sentence of section 407(qX1) of the National Housing Act (12
+U.S.C. 1730(qX1)) is amended by striking out “or extending up to
+another thirty days” and inserting in lieu thereof “or, in the
+
+iscretion of the Corporation, extending for an additional 30
+
+days”.
+(2) ADDITIONAL EXTENSIONS IN CASE OF INCOMPLETE OR INAC-
+CURATE NOTICE OR TO CONTINUE INVESTIGATION.—The second
+sentence of section 407(q\(1) of the National Housing Act (12
+U.S.C. 1730(qX1)) is amended to read as follows: “The period for
+disapproval under the preceding sentence may be extended not
+to exceed 2 additional times for not more than 45 days each time
+if—
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-32
+
+“(A) the Corporation determines that any acquiring party has
+not furnished all the information required under ph (6);
+
+“(B) in the Corporation’s judgment, any material information
+submitted is substantially inaccurate;
+
+“(C) the Corporation has been unable to complete the inves-
+tigation of an acquiring party under paragraph (2)(B) because of
+any delay caused by, or the inadequate cooperation of, such
+
+party; or
+aD) the Corporation determines that additional time is
+needed to investigate and determine that no acquiring party has
+a record of failing to comply with the requirements of sub-
+chapter II of chapter 53 of title 31, United States Code.”. 31 USC 5331 et
+(b) Duty To INVESTIGATE APPLICANTS FOR CHANGE IN CONTROL  5¢9.
+APpPROVAL.—Section 407(q\2) of the National Housing Act (12 U.S.C.
+1730(q\(2)) is amended—
+(1) by striking out “(2)” and inserting in lieu thereof ‘“(2)A)
+Notice To State AGENCY.—”; and
+(2) by adding at the end thereof the following new sub-
+
+phs:
+
+“(B) INVESTIGATION OF PRINCIPALS REQUIRED.—Upon receiving any
+notice under this subsection, the Corporation shall—
+
+“(i) conduct an so of the competence, experience,
+integrity, and financial ability of each person named in a notice
+of a proposed ret sana as a person by whom or for whom such
+acquisition is to be made; and
+
+“(ii) make an independent determination of the accuracy and
+completeness of any information described in paragraph (6)
+with respect to such person.
+
+“(C) Report.—The Corporation shall prepare a written report of
+any investigation under subparagraph (B) which shall contain, at a
+minimum, a summary of the results of such investigation. The
+Corporation shall retain such written report as a record of the
+Corporation.”’.
+
+(c) Pustic CoMMENT ON CHANGE OF ContROL Norices.—Section
+407(qX2) of the National Housing Act (12 U.S.C. 1730(q\2)) is
+amended by adding after subparagraph (C) (as added by subsection
+(b) of this section) the following new subparagraph:
+
+‘“(D) Pustic Comment.—Upon receiving notice of a proposed ac-
+quisition, the Corporation shall, within a reasonable period of
+time—
+
+“(i) publish the name of the insured institution proposed to be
+acquired and the name of each person identified in such notice
+as a person by whom or for whom such acquisition is to be
+made; and
+
+“(ii) solicit public comment on such proposed acquisition,
+
+i ly from persons in the geographic area where the
+institution pro to be oe is located, before final
+consideration of such notice by Corporation,
+
+unless the Corporation determines in writing that such disclosure or
+solicitation would seriously threaten the safety or soundness of such
+institution.”
+
+(d) INVESTIGATIONS AND ENFORCEMENT.—Section 407(q) of the Na-
+tional Housing Act (12 U.S.C. 1730(q)) is amended—
+
+(1) by redesignating paragraphs (16) and (17) as paragraphs
+(17) and (18), respectively; and
+
+(2) by inserting after paragraph (15) the following new
+paragraph:
+100 STAT. 3207-33 PUBLIC LAW 99-570—OCT. 27, 1986
+
+81 USC 53815
+note.
+
+Banks and
+banking.
+
+“(16) INVESTIGATIVE AND ENFORCEMENT AUTHORITY.—
+
+“(A) InvesTIGATIONS.—The Corporation may exercise any
+authority vested in the Corporation under paragraph (2) or (3) of
+subsection (m) in the course of conducting any investigation
+under paragraph (2XB) or any other investigation which the
+Corporation, in its discretion, determines is necessary to deter-
+mine whether any person has filed inaccurate, incomplete, or
+misleading information under this subsection or otherwise is
+violating, has violated, or is about to violate any provision
+of this subsection or any regulation prescribed under this
+subsection.
+
+“(B) ENFORCEMENT.— Whenever it appears to the Corporation
+that any person is violating, has violated, or is about to violate
+any provision of this subsection or any regulation prescribed
+under this subsection, the agency may, in its discretion, apply to
+the appropriate district court of the United States or the United
+States court of any territory for—
+
+“(i) a temporary or permanent injunction or restraining
+order enjoining such person from violating this subsection
+or any regulation prescribed under this subsection; or
+
+“(ii) such other equitable relief as may be necessary to
+phew any such violation (including divestiture).
+
+“(C) JuRIsDICTION.—
+
+“(j) The district courts of the United States and the
+United States courts in any territory shall have the same
+jurisdiction and power in connection with any exercise of
+any authority by the Corporation under subparagraph (A)
+as aye courts have under paragraph (2) or (3) of subsection
+
+(m).
+
+“ii) The district courts of the United States and the
+United States courts of any territory shall have jurisdiction
+and power to issue any injunction or restraining order or
+grant any equitable relief described in subparagraph (B).
+When appropriate, any injunction, order, or other equitable
+relief dnder this paragraph shall be granted without requir-
+ing the posting of any bond.”.
+
+SEC. 1362. AMENDMENTS TO DEFINITIONS.
+
+(a) Untrep Srates AGEeNcres INCLUDES THE PostaL SERVICE.—
+Section 5312(aX2XU) of title 31, United States Code (defining finan-
+cial institutions) (as redesignated by subsection (a)) is amended by
+inserting before the semicolon at the end the following: “, including
+the United States Postal Service”.
+
+(b) Untrep States INCLUDES CERTAIN TERRITORIES AND POSSES-
+sions.—Section 5312(a\X5) of title 31, United States Code, is amended
+by inserting “the Virgin Islands, Guam, the Northern Mariana
+Islands, American Samoa, the Trust Territory of the Pacific Is-
+lands,” after “Puerto Rico”.
+
+SEC. 1363. INTERNATIONAL INFORMATION EXCHANGE SYSTEM; STUDY
+OF FOREIGN BRANCHES OF DOMESTIC INSTITUTIONS.
+
+(a) Discussions ON INTERNATIONAL INFORMATION EXCHANGE
+System.—The Secretary of the Treasury, in consultation with the
+Board of Governors of the Federal Reserve System, shall initiate
+discussions with the central banks or other appropriate govern-
+mental authorities of other countries and propose that an informa-
+tion exchange system be established to assist the efforts of each
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-34
+
+participating country to eliminate the international flow of money
+derived from illicit drug operations and other criminal activities.
+
+(b) Report on Discussions Requirep.—Before the end of the 9-
+month period beginning on the date of the enactment of this Act,
+the Secretary of the Treasury shall prepare and transmit a report to
+the Committee on Banking, Finance and Urban Affairs of the House
+of Representatives and the Committee on Banking, Housing, and
+Urban Affairs of the Senate on the results of discussions initiated
+pursuant to subsection (a).
+
+(c) Srupy or Money LAUNDERING THROUGH FOREIGN BRANCHES OF
+Domestic FINANCIAL INSTITUTIONS REQUIRED.—The Secretary of the
+Treasury, in consultation with the Attorney General and the Board
+Governors of the Federal Reserve System, shall conduct a study
+o —
+
+(1) the extent to which foreign branches of domestic institu-
+tions are used—
+
+(A) to facilitate illicit transfers of coins, currency, and
+other monetary instruments (as such term is defined in
+section 5312(aX3) of title 31, United States Code) into and
+out of the United States; and
+
+(B) to evade reporting requirements with respect to any
+transfer of coins, currency, and other monetary in-
+struments (as so defined) into and out of the United States;
+
+(2) the extent to which the law of the United States is
+applicable to the activities of such foreign branches; and
+
+(3) methods for obtaining the cooperation of the country in
+which any such foreign branch is located for purposes of enforc-
+ing the law of the United States with respect to transfers, and
+reports on transfers, of such monetary instruments into and out
+of the United States.
+
+(d) Report ON Srupy or ForeiGN BRANCHES REQUIRED.—Before
+the end of the 9-month period beginning on the date of the enact-
+ment of this Act, the Secretary of the Treasury shall prepare and
+transmit a report to the Committee on Banking, Finance and Urban
+Affairs and the Committee on the Judiciary of the House of Rep-
+resentatives and the Committee on Banking, Housing, and Urban
+Affairs and the Committee on the Judici of the Senate on the
+results of the study conducted pursuant to subsection (c).
+
+SEC. 1364. EFFECTIVE DATES.
+
+(a) The amendment made by section 1354 shall apply with respect 31 USC 5824
+to transactions for the payment, receipt, or transfer of United States note.
+coins or currency or other monetary instruments completed after
+the end of the 3-month period beginning on the date of the enact:
+ment of this Act.
+
+(b) The amendments made by sections 1355(b) and 1357(a) shall 31 USC 5317
+apply with res to violations committed after the end of the 3- »-
+month period inning on the date of the enactment of this Act.
+
+(c) The amendments made by section 1357 (other than subsection 31 USC 5321
+(a) of such section) shall apply with respect to violations committed note.
+after the date of the enactment of this Act.
+
+(d) Any regulation prescribed under the amendments made by 31 USC 5316
+section 1358 shall apply with respect to transactions completed after ®°t-
+the effective date of such regulation.
+
+(e) The regulations required to be prescribed under the amend- 12 USC 1464
+ments made by section 1359 shall take effect at the end of the 3- note.
+month period Cacitining on the date of the enactment of this Act.
+100 STAT. 3207-35 PUBLIC LAW 99-570—OCT. 27, 1986
+
+12 USC 1730
+note.
+
+31 USC 5331 et
+seq.
+
+18 USC 981.
+
+21 USC 801 note.
+
+(f) The amendments made by sections 1360 and 1361 shall apply
+with respect to notices of proposed acquisitions filed after the date of
+the enactment of this Act.
+
+SEC. 1365. PREDICATE OFFENSES.
+
+(a) Subsection (b) of section 1952 of title 18, United States Code, is
+amended by striking out “or” before “(2)”, and by striking out the
+period at the end thereof and inserting in lieu thereof the following:
+
+‘, or (3) sig act which is indictable under subchapter II of chapter
+rote neg 1, United States Code, or under section 1956 or 1957 of
+itle.”’.
+
+(b) Subsection (1) of section 1961 of title 18, United States Code, is
+amended by inserting “section 1956 (relating to the laundering of
+monetary instruments), section 1957 (relating to engaging in mone-
+tary transactions in property derived from specified unlawful activ-
+ity),” after “section 1955 (relating to the prohibition of illegal
+gambling businesses),”’.
+
+(c) Subsection (1) of section 2516 of title 18, United States Code, is
+amended in paragraph (c) by inserting “section 1956 (laundering of
+monetary instruments), section 1957 (relating to engaging in mone-
+tary transactions in property derived from specified unlawful activ-
+ity),” after “section 1955 (prohibition of relating to business
+enterprises of gambling),”’.
+
+SEC. 1366. FORFEITURE.
+
+(a) Title 18 of the United States Code is amended by adding after
+chapter 45 a new chapter 46 as follows:
+
+“CHAPTER 46—FORFEITURE
+
+“981. Civil Forfeiture.
+“982. Criminal Forfeiture.
+
+“§ 981. Civil forfeiture
+
+“(aX1) Except as provided in paragraph (2), the following property
+is subject to forfeiture to the United States:
+
+“(A) Any property, real or personal, which represents the
+gross receipts a person obtains, directly or indirectly, as a result
+of a violation ie section 1956 or 1957 of this title, or which is
+traceable to such gross receipts.
+
+“(B) Any property within the jurisdiction of the United
+States, which represents the proceeds of an offense against a
+foreign nation involving the manufacture, importation, sale, or
+distribution of a controlled substance (as such term is defined
+for the purposes of the Controlled Substances Act), within
+whose jurisdiction such offense or activity would be punishable
+by death or imprisonment for a term exceeding one year and
+which would be punishable by imprisonment for a term exceed-
+ing one year if such act or activity had occurred within the
+jurisdiction of the United States.
+
+“(C) Any coin and currency (or other monetary instrument as
+the Secretary of the Treasury may prescribe) or any interest in
+other property, including any deposit in a financial institution,
+tra le to such coin or currency involved in a transaction or
+attempted transaction in violation of section 5313(a) or 5324 of
+title 31 may be seized and forfeited to the United States Govern-
+ment. No property or interest in property shall be seized or
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-36
+
+forfeited if the violation is by a domestic financial institution
+examined by a Federal bank supervisory agency or a financial
+institution regulated by the Securities and Exchange Commis-
+sion or a partner, director, officer, or employee thereof.
+
+“(2) No property shall be forfeited under this section to the extent
+of the interest of an owner or lienholder by reason of any act or
+emission established by that owner or lienholder to have been
+committed without the knowledge of that owner or lienholder.
+
+“(b) Any property subject to forfeiture to the United States under
+subsection (a)1A) or (aX1)(B) of this section may be seized by the
+Attorney General or, with respect to property involved in a violation
+of section 1956 or 1957 of this title investigated by the Secretary of
+the Treasury, may be seized by the Secretary of the Treasury, and
+any property subject to forfeiture under subsection (a\1\C) of this
+section may be seized by the Secre of the Treasury, in each case
+upon process issued pursuant to the Supplemental! Rules for certain
+Adiairalty and Maritime Claims by any district court of the United
+States having jurisdiction over the property, except that seizure
+without such process may be made when—
+
+“(1) the seizure is pursuant to a lawful arrest or search; or
+“(2) the Attorney General or the Secretary of the Treasury, as
+the case may be, has obtained a warrant for such seizure
+pursuant to the Federal Rules of Criminal Procedure, in which 18 USC app.
+event proceedings under subsection (d) of this section shall be
+instituted promptly.
+
+“(c) Property taken or detained under this aa shall not be
+repleviable, but shall be deemed to be in the custody of the pooege
+General or the Secretary of the Treasury, as the case ma
+subject only to the orders and decrees of the court or the o ciel
+having jurisdiction thereof. Whenever property is seized under this
+subsection, the Attorney General or the Secretary of the Treasury,
+as the case may be, may—
+
+me) place the pr operty under seal;
+
+“(2) remove the property to a 2 ace zp Somenates by him; or
+
+“(3) require that the General Administration take
+custody of the property and remove it, if practicable, to an
+appropriate location for disposition in ‘accordance with law.
+
+“(d) For purposes of this section, the provisions of the customs
+laws relating to the seizure, summary and judicial forfeiture, con-
+demnation of property for violation of ae customs laws, the disposi-
+tion of such property or the gage rom the sale of this section,
+the remission or mitigation of such forfeitures, and the compromise
+of claims (19 U.S.C. 1602 et seq.), insofar as they are ———— and
+not inconsistent with the provisions of this section, shall apply to
+seizures and forfeitures incurred, or alleged to have been incurred,
+under this section, except that such duties as are imposed upon the
+customs officer or any other person with respect to the seizure and
+forfeiture of property under the customs laws shall be performed
+with respect to seizures and forfeitures of property under this
+section by such officers, agents, or other persons as may be au-
+thorized or designated for that purpose by the Attorney General or
+the Secretary of the Treasury, as the case may be.
+
+“(e) Notwithstanding any other provision of the law, except sec-
+tion 3 of the Anti Drug Abuse Act of 1986, the Attorney General or
+the Secretary of the Treasury, as the case may be, is authorized to
+retain property forfeited pursuant to this section, or to transfer such
+property on such terms and conditions as he may determine to—
+100 STAT. 3207-37 PUBLIC LAW 99-570—OCT. 27, 1986
+
+State and local
+governments.
+
+21 USC 801 note.
+
+“(1) any other Federal agency; or
+
+“(2) any State or local law enforcement agency which partici-
+pore directly in any of the acts which led to the seizure or
+
+orfeiture of the property.
+The reg General or the Secretary of the Treasury, as the case
+may be, s ensure the equitable transfer pursuant to paragraph
+(2) of any forfeited property to the appropriate State or local law
+enforcement agency so as to reflect generally the contribution of any
+such agency participating directly in any of the acts which led to the
+seizure or forfeiture of such property. A decision by the Attorne
+General or the Secretary of the Tysaniry pursuant to oni, h (2)
+shall not be subject to review. The United States shall not iable
+in any action arising out of the use of any property the custody of
+which was transferred pursuant to this section to any non-Federal
+agency. The Attorney General or the Secretary of the ury may
+order the discontinuance of any forfeiture proceedings under this
+section in favor of the institution of forfeiture cecubetings by State
+or local authorities under an appropriate State or local statute.
+After the filing of a complaint for forfeiture under this section, the
+Attorney General may seek dismissal of the complaint in favor of
+forfeiture proceedings under State or local law. Whenever forfeiture
+proceedings are discontinued by the United States in favor of State
+or local proceedings, the United States may transfer custody and
+possession of the seized ag omg di to the appropriate State or local
+official immediately upon the initiation of the proper actions by
+such officials. Whenever forfeiture proceedings are discontinued b
+the United States in favor of State or local Lege notice s.
+be sent to all known interested parties advising them of the dis-
+continuance or dismissal. The United States shall not be liable in
+any action arising out of the seizure, detention, and transfer of
+seized | pan to State or local officials.
+
+“(f) right, title, and interest in prowerty described in subsec-
+tion (a) of this section shall vest in the United States upon commis-
+sion of the act giving rise to forfeiture under this section.
+
+“(g) The filing of an indictment or information alleging a violation
+of law which is also related to a forfeiture p ing under this
+section shall, upon motion of the United States and for good cause
+shown, stay the forfeiture proceeding.
+
+“(h) In addition to the venue provided for in section 1395 of title 28
+or any other provision of law, in the case of property of a defendant
+charged with a violation that is the basis for forfeiture of the
+property under this section, a proceeding for forfeiture under this
+section may be brought in the judicial district in which the defend-
+ant owning such property is found or in the judicial district in which
+the criminal prosecution is brought. ;
+
+“(i) In the case of property subject to forfeiture under subsection
+(aX1XB), the following additional provisions shall, to the extent
+provided by treaty, apply:
+
+“(1) Notwithstanding any other provision of law, except sec-
+tion 3 of the Anti Drug Abuse Act of 1986, whenever property is
+civilly or criminally forfeited under the Controlled Substances
+Act, the Attorney General may, with the concurrence of the
+Secretary of State, equitably transfer any conveyance, currency,
+and any other type of personal property which the Attorney
+Genevel- may designate by i See for equitable transfer, or
+any amounts realized by the United States from the sale of any
+real or personal property forfeited under the Controlled
+PUBLIC LAW 99-570—OCT. 27, 1986 100 STAT. 3207-38
+
+Substances Act to an appropriate foreign country to reflect
+generally the contribution of any such nt country partici-
+pating directly or indirectly in any acts which led to the seizure
+or forfeiture of such property. Such property when forfeited
+pursuant to subsection (aX1\B) of this section may also be
+transferred to a foreign country pursuant to a treaty providi
+for the transfer of forfeited property to such foreign country.
+decision by the Attorney General poreeank to this pereareoe
+shall not be subject to review. The foreign country shall, in the
+event of a transfer of ia or proceeds of sale of property
+under this subchapter, Rea expenses incurred by the United
+States in the seizure, maintenance, inventory, storage, forfeit-
+ure, and disposition of the property, and all transfer costs. The
+payment of all such expenses, and the transfer of assets pursu-
+ant to this paragraph, shall be upon such terms and conditions
+as the Attorney General may, in his discretion, set. Transfers
+may be made under this sabeaction during a fiscal year to a
+country that is subject to paragraph (1XA) of section 481(h) of
+the Foreign Assistance Act of 1961 (relating to restrictions on
+United States assistance) only if there is a certification in effect
+with respect to that country for that fiscal year under para-
+graph (2) of that section.
+
+“) The provisions of this section shall not be construed as
+limiting or superseding any other authority of the United States
+to provide assistance to a foreign country in obtaining property
+related to a crime committed in the foreign country, including
+property which is sought as evidence of a crime committed in
+the foreign country.
+
+“(3) A certified order or judgment of forfeiture by a court of
+mar agri? eS of a foreign country concerning property
+which is the subject of forfeiture under this section and was
+determined by such court to be the type of property described in
+subsection (a)1\B) of this section, and any certified recordings
+or transcripts of testimony taken in a foreign judicial proceed-
+
+ing concerning such order or judgment of forfeiture, shall be
+edvoiseihle in evidence in a lh ie, so brought pursuant to this
+
+section. Such certified order or judgment of forfeiture, when
+admitted into evidence, shall constitute probable cause that the
+property forfeited by such order or judgment of forfeiture is
+subject to forfeiture under this section and creates a rebuttable
+presumption of the forfeitability of such property under this
+section.
+
+“(4) A certified order or judgment of conviction by a court of
+— jurisdiction of a foreign country concerning an un-
+
+la activity which gives rise to forfeiture under this
+section and any certified recordings or transcripts of testimony
+taken in a foreign judicial p ing concerning such order or
+
+judgment of conviction shall be admissible in evidence in a
+p ing brought pursuant to this section. Such certified
+order or judgment of conviction, when admitted into evidence,
+creates a rebuttable presumption that the unlawful drug activ-
+ity giving rise to forfeiture under this section has occurred.
+“(5) The provisions of phs (3) and (4) of this subsection
+shall not construed as li ang admissibility of any
+evidence otherwise admissible, nor they limit the ability of
+the United States to establish probable cause that property is
+subject to forfeiture by any evidence otherwise admissible.
+
+21 USC 801 note.
+
+22 USC 2291.
+100 STAT. 3207-39 PUBLIC LAW 99-570—OCT. 27, 1986
+
+18 USC 982.
+Real property.
+
+18 USC 981 note.
+
+Career
+
+Criminals
+Amendment Act
+of 1986.
+
+18 USC 921 note.
+
+“(j) For purposes of this section—
+“(1) the term ‘Attorney General’ means the Attorney General
+or his delegate; and
+“(2) the term ‘ of the Treasury’ means the Secretary
+of the Treasury or his delegate.
+
+“§ 982. Criminal forfeiture
+
+“(a) The court, in imposing sentence on a person convicted of an
+offense under section 1956 or 1957 of this title shall order that the
+person forfeit to the United States any property, real or personal,
+which represents the gross Sg the person obtained, directly or
+indirectly, as a result of such offense, or which is traceable to such
+gross receipts.
+
+“(b) The provisions of subsections 413 (c) and (e) through (0) of the
+ee ee ct Nb Drug Abuse Prevention and Control Act of 1970 (21
+U.S.C. 853 (c) and (e)—(o)) shall apply to property subject to forfeit-
+ure under this section, to any seizure or disposition thereof, and to
+any administrative or judicial proceeding in relation thereto, if not
+inconsistent with this section.”.
+
+(b) The chapter analysis of part I of title 18, United States Code, is
+amended by inserting after the item for chapter 45 the following:
+
+“46. Forfeiture 981”.
+SEC. 1367. SEVERABILITY CLAUSE.
+
+If any  provanion of this subtitle or any amendment made by this
+Act, or the application thereof to any person or circumstances is
+held invalid, the provisions of every other part, and their applica-
+tion, shall not be affected thereby.
+
+Subtitle I—Armed Career Criminals
+
+SEC. 1401, SHORT TITLE.
+
+This subtitle may be cited as the “Career Criminals Amendment
+Act of 1986”.
+
+SEC. 1402. EXPANSION OF PREDICATE OFFENSES FOR ARMED CAREER
+CRIMINAL PENALTIES.
+
+(a) IN GENERAL.—Section 924(e\1) of title 18, United States Code,
+is amended by striking out “for robbery or burglary, or both,” and
+inserting in lieu thereof “for a violent felony or a serious drug
+offense, or both,”’.
+
+(b) DerinitTions.—Section 924(eX2) of title 18, United States Code,
+is amended by striking out subparagraph (A) and all that follows
+through subparagraph (B) and inserting in lieu thereof the
+following:
+
+“(A) the term ‘serious drug offense’ means—
+
+“(j) an offense under the Controlled Substances Act
+(21 U.S.C. 801 et seq.), the Controlled Substances
+Import and Export Act (21 U.S.C. 951 et seq.), or the
+first section or section 3 of Public Law 96-350 (21 U.S.C.
+955a et seq.), for which a maximum term of imprison-
+ment of ten years or more is prescribed by law; or
+
+“i) pte ob mane under State law, ate tes remand
+turing, distributing, or possessing with intent to manu-
+facture or distribute, a controlled substance (as defined
+in section 102 of the Controlled Substances Act (21

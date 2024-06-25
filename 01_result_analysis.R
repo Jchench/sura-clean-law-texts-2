@@ -50,3 +50,7 @@ word_count_table <-
   bind_rows(PL104_208_word_count) |> 
   bind_rows(PL105_310_word_count) |> 
   bind_rows(PL116_283_word_count)
+
+# save
+write_csv(word_count_table, file = "word_count_table.csv")
+
