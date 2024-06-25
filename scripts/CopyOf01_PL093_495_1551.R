@@ -1,14 +1,15 @@
 library("quanteda")
+library(tidyverse)
 
 # Define documents
-documentA <- paste(readLines("ocr_txt/PL116_283.txt"), collapse = "\n")
-documentB <- paste(readLines("gpt_txt/PL116_283_gpt.txt"), collapse = "\n")
+documentA <- paste(readLines("machine_readable/PL093_495_1551.txt"), collapse = "\n")
+documentB <- paste(readLines("gpt_txt/PL093_495_1551_gpt.txt"), collapse = "\n")
 
 # word count
-count_should_A <- str_count(documentA, "\\bshould\\b")
-count_may_A <- str_count(documentA, "\\bmay\\b")
-count_should_not_A <- str_count(documentA, "\\bshould not\\b")
-count_may_not_A <- str_count(documentA, "\\bmay not\\b")
+count_should <- str_count(documentA, "\\bshould\\b")
+count_may <- str_count(documentA, "\\bmay\\b")
+count_should_not <- str_count(documentA, "\\bshould not\\b")
+count_may_not <- str_count(documentA, "\\bmay not\\b")
 
 count_should_B <- str_count(documentB, "\\bshould\\b")
 count_may_B <- str_count(documentB, "\\bmay\\b")
@@ -16,14 +17,12 @@ count_should_not_B <- str_count(documentB, "\\bshould not\\b")
 count_may_not_B <- str_count(documentB, "\\bmay not\\b")
 
 # save
-PL116_283_word_count <- 
-  tibble(law = "PL116_283",
-         "# should in ocr" = count_should_A, "# may in ocr" = count_may_A,
-         "# should not in ocr" = count_should_not_A, "# may not in ocr" = count_may_not_A,
+PL093_495_1551_word_count <- 
+  tibble(law = "PL093_495_1551",
+         "# should" = count_should, "# may" = count_may,
+         "# should not" = count_should_not, "# may not" = count_may_not,
          "# should in gpt" = count_should_B, "# may in gpt" = count_may_B,
          "# should not in gpt" = count_should_not_B, "# may not in gpt" = count_may_not_B)
-
-save(PL116_283_word_count, file = "results/PL116_283_word_count.rda")
 
 # Preprocess the documents
 preprocess <- function(doc) {
@@ -66,15 +65,15 @@ cat("Proportion of 10-grams from document B not in document A:", proportionB_not
 unique_to_A <- setdiff(setA, setB)
 unique_to_B <- setdiff(setB, setA)
 
-# Print a few examples
+# Print a few examples 
 cat("\nExamples of 10-grams in document A but not in document B:\n")
 print(head(unique_to_A, 10))
 
 cat("\nExamples of 10-grams in document B but not in document A:\n")
 print(head(unique_to_B, 10))
 
-# save
-PL116_283_accuracy <- 
-  tibble(law = "PL116_283", ocr = proportionA_not_in_B, gpt = proportionB_not_in_A)
 
-save(PL116_283_accuracy, file = "results/PL116_283.rda")
+
+
+
+

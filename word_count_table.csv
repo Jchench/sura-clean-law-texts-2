@@ -1,11 +1,9 @@
-law,# should in ocr,# may in ocr,# should not in ocr,# may not in ocr,# should in gpt,# may in gpt,# should not in gpt,# may not in gpt
-PL093_495_1551,0,19,0,10,0,20,0,13
-PL093_495_1551,0,8,0,2,0,7,0,2
-PL094_239,0,17,0,2,0,18,0,2
-PL94_240,0,10,0,1,0,10,0,1
-PL098_181_1278,0,15,0,1,0,17,0,3
-PL102_242_2334,0,26,0,3,0,26,0,4
-PL102_550,0,3,0,0,0,3,0,0
-PL104_208,0,3,0,0,0,3,0,0
-PL105_310,1,16,0,1,1,16,0,1
-PL116_283,0,1,0,0,0,1,0,0
+law,number_should,number_may,number_should_not,number_may_not,number_should_in_gpt,number_may_in_gpt,number_should_not_in_gpt,number_may_not_in_gpt,prop_should,prop_should_not,prop_may,prop_may_not
+PL093_495_1551,0,19,0,10,0,20,0,13,NA,NA,0.95,0.7692307692307693
+PL093_495_1551,0,8,0,2,0,7,0,2,NA,NA,1.1428571428571428,1
+PL094_239,0,17,0,2,0,18,0,2,NA,NA,0.9444444444444444,1
+PL94_240,0,10,0,1,0,10,0,1,NA,NA,1,1
+PL098_181_1278,0,15,0,1,0,17,0,3,NA,NA,0.8823529411764706,0.3333333333333333
+PL102_242_2334,0,26,0,3,0,26,0,4,NA,NA,1,0.75
+PL102_550,0,3,0,0,0,3,0,0,NA,NA,1,NA
+PL105_310,1,16,0,1,1,16,0,1,1,NA,1,1

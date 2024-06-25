@@ -1,16 +1,15 @@
-library("quanteda")
+library(quanteda)
 library(tidyverse)
 
 # Define documents
-documentA <- paste(readLines("ocr_txt/PL093_495_1551.txt"), collapse = "\n")
+documentA <- paste(readLines("machine_readable/PL093_495_1551.txt"), collapse = "\n")
 documentB <- paste(readLines("gpt_txt/PL093_495_1551_gpt.txt"), collapse = "\n")
-documentSource <- paste(readLines("machine_readable/PL093_495_1551.txt"), collapse = "\n")
 
 # word count
-count_should <- str_count(documentSource, "\\bshould\\b")
-count_may <- str_count(documentSource, "\\bmay\\b")
-count_should_not <- str_count(documentSource, "\\bshould not\\b")
-count_may_not <- str_count(documentSource, "\\bmay not\\b")
+count_should <- str_count(documentA, "\\bshould\\b")
+count_may <- str_count(documentA, "\\bmay\\b")
+count_should_not <- str_count(documentA, "\\bshould not\\b")
+count_may_not <- str_count(documentA, "\\bmay not\\b")
 
 count_should_B <- str_count(documentB, "\\bshould\\b")
 count_may_B <- str_count(documentB, "\\bmay\\b")
@@ -20,8 +19,8 @@ count_may_not_B <- str_count(documentB, "\\bmay not\\b")
 # save
 PL093_495_1551_word_count <- 
   tibble(law = "PL093_495_1551",
-         "# should" = count_should_A, "# may" = count_may_A,
-         "# should not" = count_should_not_A, "# may not" = count_may_not_A,
+         "# should" = count_should, "# may" = count_may,
+         "# should not" = count_should_not, "# may not" = count_may_not,
          "# should in gpt" = count_should_B, "# may in gpt" = count_may_B,
          "# should not in gpt" = count_should_not_B, "# may not in gpt" = count_may_not_B)
 

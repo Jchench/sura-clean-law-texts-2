@@ -7,9 +7,7 @@ load("results/PL094_240.rda")
 load("results/PL098_181_1278.rda")
 load("results/PL102_242_2334.rda")
 load("results/PL102_550.rda")
-load("results/PL104_208.rda")
 load("results/PL105_310.rda")
-load("results/PL116_283.rda")
 
 # accuracy
 accuracy_table <- 
@@ -20,9 +18,7 @@ accuracy_table <-
   bind_rows(PL098_181_1278_accuracy) |> 
   bind_rows(PL102_242_2334_accuracy) |> 
   bind_rows(PL102_550_accuracy) |> 
-  bind_rows(PL104_208_accuracy) |> 
-  bind_rows(PL105_310_accuracy) |> 
-  bind_rows(PL116_283_accuracy)
+  bind_rows(PL105_310_accuracy)
 
 # save
 write_csv(accuracy_table, file = "accuracy_table.csv")
@@ -35,9 +31,7 @@ load("results/PL94_240_word_count.rda")
 load("results/PL098_181_1278_word_count.rda")
 load("results/PL102_242_2334_word_count.rda")
 load("results/PL102_550_word_count.rda")
-load("results/PL104_208_word_count.rda")
 load("results/PL105_310_word_count.rda")
-load("results/PL116_283_word_count.rda")
 
 word_count_table <- 
   PL093_495_1551_word_count |> 
@@ -47,9 +41,15 @@ word_count_table <-
   bind_rows(PL098_181_1278_word_count) |> 
   bind_rows(PL102_242_2334_word_count) |> 
   bind_rows(PL102_550_word_count) |> 
-  bind_rows(PL104_208_word_count) |> 
-  bind_rows(PL105_310_word_count) |> 
-  bind_rows(PL116_283_word_count)
+  bind_rows(PL105_310_word_count)
+
+word_count_table <- 
+  word_count_table |> 
+  janitor::clean_names() |> 
+  mutate(prop_should = number_should / number_should_in_gpt,
+         prop_should_not = number_should_not / number_should_not_in_gpt,
+         prop_may = number_may / number_may_in_gpt,
+         prop_may_not = number_may_not / number_may_not_in_gpt)
 
 # save
 write_csv(word_count_table, file = "word_count_table.csv")
