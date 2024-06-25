@@ -26,3 +26,27 @@ accuracy_table <-
 
 # save
 write_csv(accuracy_table, file = "accuracy_table.csv")
+
+# word count
+load("results/PL093_495_1551_word_count.rda")
+load("results/PL094_200_word_count.rda")
+load("results/PL094_239_word_count.rda")
+load("results/PL94_240_word_count.rda")
+load("results/PL098_181_1278_word_count.rda")
+load("results/PL102_242_2334_word_count.rda")
+load("results/PL102_550_word_count.rda")
+load("results/PL104_208_word_count.rda")
+load("results/PL105_310_word_count.rda")
+load("results/PL116_283_word_count.rda")
+
+word_count_table <- 
+  PL093_495_1551_word_count |> 
+  bind_rows(PL094_200_word_count) |> 
+  bind_rows(PL094_239_word_count) |> 
+  bind_rows(PL94_240_word_count) |> 
+  bind_rows(PL098_181_1278_word_count) |> 
+  bind_rows(PL102_242_2334_word_count) |> 
+  bind_rows(PL102_550_word_count) |> 
+  bind_rows(PL104_208_word_count) |> 
+  bind_rows(PL105_310_word_count) |> 
+  bind_rows(PL116_283_word_count)

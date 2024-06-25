@@ -4,6 +4,27 @@ library("quanteda")
 documentA <- paste(readLines("ocr_txt/PL102_550.txt"), collapse = "\n")
 documentB <- paste(readLines("gpt_txt/PL102_550_gpt.txt"), collapse = "\n")
 
+# word count
+count_should_A <- str_count(documentA, "\\bshould\\b")
+count_may_A <- str_count(documentA, "\\bmay\\b")
+count_should_not_A <- str_count(documentA, "\\bshould not\\b")
+count_may_not_A <- str_count(documentA, "\\bmay not\\b")
+
+count_should_B <- str_count(documentB, "\\bshould\\b")
+count_may_B <- str_count(documentB, "\\bmay\\b")
+count_should_not_B <- str_count(documentB, "\\bshould not\\b")
+count_may_not_B <- str_count(documentB, "\\bmay not\\b")
+
+# save
+PL102_550_word_count <- 
+  tibble(law = "PL102_550",
+         "# should in ocr" = count_should_A, "# may in ocr" = count_may_A,
+         "# should not in ocr" = count_should_not_A, "# may not in ocr" = count_may_not_A,
+         "# should in gpt" = count_should_B, "# may in gpt" = count_may_B,
+         "# should not in gpt" = count_should_not_B, "# may not in gpt" = count_may_not_B)
+
+save(PL102_550_word_count, file = "results/PL102_550_word_count.rda")
+
 # Preprocess the documents
 preprocess <- function(doc) {
   doc <- tolower(doc)  

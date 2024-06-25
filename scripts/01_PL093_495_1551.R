@@ -17,6 +17,14 @@ count_should_not_B <- str_count(documentB, "\\bshould not\\b")
 count_may_not_B <- str_count(documentB, "\\bmay not\\b")
 
 # save
+PL093_495_1551_word_count <- 
+  tibble(law = "PL093_495_1551",
+         "# should in ocr" = count_should_A, "# may in ocr" = count_may_A,
+         "# should not in ocr" = count_should_not_A, "# may not in ocr" = count_may_not_A,
+         "# should in gpt" = count_should_B, "# may in gpt" = count_may_B,
+         "# should not in gpt" = count_should_not_B, "# may not in gpt" = count_may_not_B)
+
+save(PL093_495_1551_word_count, file = "results/PL093_495_1551_word_count.rda")
 
 # Preprocess the documents
 preprocess <- function(doc) {
