@@ -1,8 +1,22 @@
 library("quanteda")
+library(tidyverse)
 
 # Define documents
 documentA <- paste(readLines("ocr_txt/PL093_495_1551.txt"), collapse = "\n")
 documentB <- paste(readLines("gpt_txt/PL093_495_1551_gpt.txt"), collapse = "\n")
+
+# word count
+count_should_A <- str_count(documentA, "\\bshould\\b")
+count_may_A <- str_count(documentA, "\\bmay\\b")
+count_should_not_A <- str_count(documentA, "\\bshould not\\b")
+count_may_not_A <- str_count(documentA, "\\bmay not\\b")
+
+count_should_B <- str_count(documentB, "\\bshould\\b")
+count_may_B <- str_count(documentB, "\\bmay\\b")
+count_should_not_B <- str_count(documentB, "\\bshould not\\b")
+count_may_not_B <- str_count(documentB, "\\bmay not\\b")
+
+# save
 
 # Preprocess the documents
 preprocess <- function(doc) {
@@ -51,3 +65,14 @@ print(head(unique_to_A, 10))
 
 cat("\nExamples of 10-grams in document B but not in document A:\n")
 print(head(unique_to_B, 10))
+
+# save
+PL093_495_1551_accuracy <- 
+  tibble(law = "PL093_495_1551", ocr = proportionA_not_in_B, gpt = proportionB_not_in_A)
+
+save(PL093_495_1551_accuracy, file = "results/PL093_495_1551.rda")
+
+
+
+
+

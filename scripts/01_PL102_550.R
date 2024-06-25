@@ -51,3 +51,10 @@ print(head(unique_to_A, 10))
 
 cat("\nExamples of 10-grams in document B but not in document A:\n")
 print(head(unique_to_B, 10))
+
+# save
+PL102_550_accuracy <- 
+  tibble(law = "PL102_550", ocr = proportionA_not_in_B, gpt = proportionB_not_in_A)
+
+save(PL102_550_accuracy, file = "results/PL102_550.rda")
+
